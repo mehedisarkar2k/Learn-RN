@@ -14,7 +14,7 @@ This repository contains code for a React Native project where I'll be practicin
 Each topic will be practiced on a separate branch. Below are the branches related to each topic:
 
 - `main`: Main branch containing the basic project structure.
-- `topic-1-theming`: Branch for practicing Topic 1 Theming.
+- `topic-1-theming`: Branch for practicing [_Theming_](https://github.com/mehedisarkar2k/Learn-RN/tree/topic-1-theming).
 
 ## Getting Started
 
@@ -32,16 +32,16 @@ or
 git clone https://github.com/mehedisarkar2k/Learn-RN.git
 ```
 
-2. Install dependencies by running `yarn install`.
-
-```bash
-yarn install
-```
-
-3. Check out the branch for the topic you want to practice.
+2. Check out the branch for the topic.
 
 ```bash
 git checkout topic-1-theming
+```
+
+3. Install dependencies by running `yarn install`.
+
+```bash
+yarn install
 ```
 
 4. Read specific instructions in the **README** file of the branch.
@@ -85,3 +85,4 @@ Feel free to reach out to me on social media:
 - <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [Mehedi Hasan Sarkar](https://www.linkedin.com/in/mehedisarkar2k)
 - <img src="https://img.icons8.com/material-rounded/24/000000/github.png"/> [Mehedi Hasan Sarkar](https://github.com/mehedisarkar2k)
 - <img src="https://img.icons8.com/color/24/000000/facebook.png"/> [Mehedi Hasan Sarkar](https://www.facebook.com/mehedisarkar2k)
+- <img src="https://img.icons8.com/color/24/000000/email.png"/> [mehedisarkar2k@gmail.com](mailto:mehedisarkar2k@gmail.com)
